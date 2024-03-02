@@ -13,8 +13,7 @@ Greetings! I'm a motivated Fullstack Developer with one year of hands-on experie
 * ✉️  You can contact me at [venkataraviraja5@gmail.com](mailto:venkataraviraja5@gmail.com)
 * 🤝  I'm open to collaborating on  Web Development projects
 
-<a href="https://www.github.com/SyedMoin-lab" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-the-badge&color=000000&labelColor=312e81" /></a>
+
 
 ### Skills
 
@@ -31,7 +30,7 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yGiC2_fGPLXIliAWy9NCNZmV3Eo1jfdfP4vxpXIpag&s" alt="Database" width="100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnx_sifbqN92Sy_qt-IUe_4WbhxlpVE_WQA-UlOSOvMA&s" alt="Database" width="100">
 <img src="https://www.shutterstock.com/image-illustration/sql-database-icon-logo-design-260nw-705321907.jpg" alt="Database" width="100">
-<img src="database-image.png" alt="Database" width="100">
+
 
  
 </div>
