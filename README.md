@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SyedMoin-lab"><img src="https://github-readme-stats.vercel.app/api?username=SyedMoin-lab&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="SyedMoin-lab's GitHub stats" /></a>
+<a href="https://github.com/venkataraviraja5"><img src="https://github-readme-stats.vercel.app/api?username=venkataraviraja5&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&show_icons=true" alt="SyedMoin-lab's GitHub stats" /></a>
 
 <a href="http://www.github.com/SyedMoin-lab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedMoin-lab&stroke=ffffff&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
