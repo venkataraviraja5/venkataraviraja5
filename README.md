@@ -4,7 +4,7 @@
 Hi 👋 My name is Ravi Raja
 ===================================
 
-Software Engineer and A FullStack Developer
+ FullStack Developer
 -------------------------------------------
 
 Greetings! I'm a motivated Fullstack Developer with one year of hands-on experience in shaping compelling digital experiences. My journey in the tech world has been marked by a dynamic role focused on fullstack development. In my year-long journey, I've honed my skills in key technologies, including JavaScript, React.js, Node.js,expressjs and mongodb. My passion lies in creating seamless and visually appealing user interfaces that enhance the overall user experience. Proficient in version control with Git, I've actively contributed to collaborative coding environments, ensuring the integrity of the codebase.
@@ -33,7 +33,6 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 <a href="https://github.com/venkataraviraja5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=venkataraviraja5&stroke=ffffff&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/venkataraviraja5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=venkataraviraja5&bg_color=312e81&color=ffffff&line=000000&point=ffffff&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/venkataraviraja5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkataraviraja5&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
