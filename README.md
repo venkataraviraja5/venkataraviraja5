@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
  <img src="" alt="Database" width="100">
  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="Database" width="100">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="Database" width="100">
- <img src="https://www.codespot.org/assets/nodejs-cover.png" alt="Database" width="100">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwbCiBrO4Hdp9kqknXIihiJ7lvu0Sg7nE-5_FGzpxI9w&s" alt="Database" width="100">
  <img src="database-image.png" alt="Database" width="100">
  <img src="database-image.png" alt="Database" width="100">
  
