@@ -18,7 +18,19 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
 
 ### Skills
 
-
+<div style="display: inline-block;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvfXnNyB1HacT6EgBLYkRwBXnPa9GSYd_zjyWtDbzw&s" alt="Frontend Development" width="100" style="margin-right: 20px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_Z9EiO1hcAm9P-X_9lpiAV3FOtodE75v6dQh5FUlIw&s" alt="Backend Development" width="100" style="margin-right: 20px;">
+    <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ <img src="database-image.png" alt="Database" width="100">
+ 
+</div>
 
 
 ### Socials
