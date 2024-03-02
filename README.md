@@ -22,7 +22,6 @@ src="https://img.shields.io/github/followers/SyedMoin-lab?logo=github&style=for-
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGvfXnNyB1HacT6EgBLYkRwBXnPa9GSYd_zjyWtDbzw&s" alt="Frontend Development" width="100" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="100" style="margin-right: 20px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghzj90CpG9v_fiA9sV7nHFZSthRYsPzwhVBwHn-BAHA&s" alt="Database" width="100" style="margin-right: 20px;>
- <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="Database" width="100">
  <img src="https://vistaran-tech.s3.ap-south-1.amazonaws.com/wp-content/uploads/2022/05/13104926/nodejs-logo.png" alt="Database" width="100">
  <img src="database-image.png" alt="Database" width="100">
  <img src="database-image.png" alt="Database" width="100">
